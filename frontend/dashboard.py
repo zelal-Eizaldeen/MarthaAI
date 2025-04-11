@@ -22,7 +22,6 @@ else:
 # Load the data of Features importance
 feature_df=pd.read_csv(f'{PATH_TO_DATA}/rf_feature_importance.csv')
 
-print(sample_ads.columns)
 
 # Dash App
 # Initialize Dash app
