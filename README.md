@@ -19,4 +19,4 @@ On top of that it has a library called Dash plotly to build interactive dashboar
 - In terms of the model, RandomForestRegressor is used because of High Performance, Handles Nonlinear Relationships and No Need for Feature Scaling. However, I wouldn't use it in case of explainability (it is less interpretable) or Real-time predictions.
 
 # 5. Demo
-https://youtu.be/iNzjZ_P-7GU
+https://youtu.be/_64JHSGfdXg
